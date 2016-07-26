@@ -1,2 +1,2 @@
-# cpplib
+# C++ Library
 C++ library
